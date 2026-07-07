@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://key-service-pinsk.by/sitemap.xml
